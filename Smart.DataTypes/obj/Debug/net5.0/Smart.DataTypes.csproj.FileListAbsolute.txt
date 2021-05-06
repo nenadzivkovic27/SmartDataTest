@@ -1,0 +1,11 @@
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\bin\Debug\net5.0\Smart.DataTypes.deps.json
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\bin\Debug\net5.0\Smart.DataTypes.dll
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\bin\Debug\net5.0\ref\Smart.DataTypes.dll
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\bin\Debug\net5.0\Smart.DataTypes.pdb
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.AssemblyInfoInputs.cache
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.AssemblyInfo.cs
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.csproj.CoreCompileInputs.cache
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.dll
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\ref\Smart.DataTypes.dll
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.pdb
