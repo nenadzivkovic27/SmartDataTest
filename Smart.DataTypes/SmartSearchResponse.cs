@@ -15,9 +15,9 @@ namespace Smart.DataTypes
         }
 
         public long MgmtTotal { get; set; }
-        public long MgmtShowing { get { return Mgmts.LongCount(); } }
+        public int MgmtShowing { get { return Mgmts.Count(); } }
         public long PropertiesTotal { get; set; }
-        public long PropertiesShowing { get { return Properties.LongCount(); } }
+        public int PropertiesShowing { get { return Properties.Count(); } }
         public List<Mgmt> Mgmts { get; set; }
         public List<Property> Properties { get; set; }
 

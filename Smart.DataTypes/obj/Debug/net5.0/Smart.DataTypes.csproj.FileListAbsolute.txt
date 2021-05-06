@@ -9,3 +9,4 @@ D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.
 D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.dll
 D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\ref\Smart.DataTypes.dll
 D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.pdb
+D:\Work\SmartApartmentData\Project\SmartDataTest\Smart.DataTypes\obj\Debug\net5.0\Smart.DataTypes.csprojAssemblyReference.cache
